@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: rgb(54, 54, 54);
+    color: rgb(2, 2, 2);
+    font-weight:normal;
+    font-size: 20px;
+    line-height: 28px;
+    font-family: 'Open Sans', sans-serif;
+ 
+}
+
+footer{
+    background-color: bisque;
+    display: block;
+    padding: 0,5%;
+    color: (brown);
+}
+
+.whats{
+    position:fixed;
+    right: 0%;
+    bottom: 0%;
+
+}
+
+header{
+    text-align: center;
+    background-color: rgb(57, 57, 99);
+    position: sticky;
+    padding: 40px;
+    font-family: 'Open Sans', sans-serif;
+    
+
+}
+.top{
+    border: 1px solid;
+
+}
+p{
+    text-align: justify;
+}
